@@ -1,3 +1,4 @@
 For the first product, I would implement some sort of password to go along with making an account, as anyone can login with anyone’s ID. This could be a little complex with seeing how to hash the passwords to ensure they're as secure as possible.
 
-For the second product, I would look at implementing something to log all the time spent on a movie and also when a movie isn't finished, to track the time they stopped out so they can pick up at that time again. This could also be a little troublesome, as the user would have to log the time. But it would help people pick up where they left off on their movies.
+For the second product, I would look at implementing something to log all the time spent on a movie and also when a movie isn't finished, to track the time they stopped out so they can pick up at that time again. This could also be a little troublesome, 
+as the user would have to log the time. But it would help people pick up where they left off on their movies.
