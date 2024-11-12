@@ -1,3 +1,9 @@
+1) Gets a book review from the user, rating with a written review.
+2) Pulls movies based on actors
+3) Filters movies based on their duration
+
+
+
 1) Book review (completely written by the user): /village/write_review  
 
 curl -X 'POST' \ 'https://testinghosting-yyoz.onrender.com/village/write_review' \ -H 'accept: application/json' \ -H 'access_token: hlath' \ -H 'Content-Type: application/json' \ 
