@@ -4,6 +4,8 @@
 
 
 
+
+
 1) Book review (completely written by the user): /village/write_review  
 
 curl -X 'POST' \ 'https://testinghosting-yyoz.onrender.com/village/write_review' \ -H 'accept: application/json' \ -H 'access_token: hlath' \ -H 'Content-Type: application/json' \ 
